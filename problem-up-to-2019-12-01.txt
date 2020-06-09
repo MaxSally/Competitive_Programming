@@ -1,0 +1,585 @@
+﻿11/08/2018 (9h - 11h30, offline)
+
+486B - OR in Matrix
+http://codeforces.com/problemset/problem/486/B
+
+505B - Mr. Kitayuta's Colorful Graph
+http://codeforces.com/contest/505/problem/B
+
+913D - Too Easy Problems
+http://codeforces.com/contest/913/problem/D
+
+Lịch dạy:
+
+Sáng T7 - 07h30
+Sáng T2 - 07h30
+
+------------------------------------------------
+12/08/2018 (9h - 11h30, offline)
+
+313B - Ilya and Queries
+http://codeforces.com/problemset/problem/313/B
+
+706C - Hard problem
+http://codeforces.com/problemset/problem/706/C
+
+698A - Vacations
+http://codeforces.com/problemset/problem/698/A
+
+--------------------------------------------------
+
+13/08/2018 (15h - 17h30, offline)
+
+270D - Greenhouse Effect
+http://codeforces.com/contest/270/problem/D
+
+430D - Working Out
+https://codeforces.com/contest/430/problem/D
+
+414B - Mashmokh and ACM
+https://codeforces.com/problemset/problem/414/B
+
+--------------------------------------------------
+
+14/08/2018 (Bài tập thêm)
+
+455A - Boredom
+http://codeforces.com/problemset/problem/455/A
+
+682C - Alyona and the Tree
+http://codeforces.com/contest/682/problem/C
+
+LEM3 - TRIP
+https://vn.spoj.com/problems/LEM3/
+
+--------------------------------------------------
+
+18/08/2018 (7h30 - 11h, online)
+- DP on tree review -
+
+HR - Summing the Path Weights Between Nodes
+https://www.hackerrank.com/contests/101hack49/challenges/summing-the-path-weights-between-nodes
+
+HR - Black White Tree
+https://www.hackerrank.com/contests/university-codesprint-3/challenges/black-white-tree
+
+855C - Helga Hufflepuff's Cup
+http://codeforces.com/contest/855/problem/C
+
+--------------------------------------------------
+
+25/08/2018 (7h - 11h, online)
+- Bitmask DP review -
+
+16E - Fish
+http://codeforces.com/problemset/problem/16/E
+
+11D - A Simple Task
+http://codeforces.com/problemset/problem/11/D
+
+453B - Little Pony and Harmony Chest
+http://codeforces.com/contest/453/problem/B
+
+--------------------------------------------------
+08/09/2018 (8h - 11h30, online)
+- Sum of subsets (SOS) DP -
+
+HE - SPECIAL PAIRS
+https://www.hackerearth.com/practice/algorithms/dynamic-programming/bit-masking/practice-problems/algorithm/special-pairs-7/
+
+383E - Vowels
+https://codeforces.com/contest/383/problem/E
+
+449D - Jzzhu and Numbers
+https://codeforces.com/contest/449/problem/D
+
+--------------------------------------------------
+
+22/09/2018 (8h - 11h30, online)
+- Digit DP -
+
+LightOJ 1068 - Investigation
+http://lightoj.com/volume_showproblem.php?problem=1068
+
+628D - Magic Numbers
+https://codeforces.com/contest/628/problem/D
+
+CodeChef - Chef and special numbers
+https://www.codechef.com/problems/WORKCHEF
+
+--------------------------------------------------
+
+03/11/2018 (21h - 22h30, online)
+- Harder DP problems - 
+505C - Mr. Kitayuta, the Treasure Hunter
+https://codeforces.com/problemset/problem/505/C
+
+560E - Gerald and Giant Chess
+https://codeforces.com/contest/560/problem/E
+
+--------------------------------------------------
+
+10/11/2018 (21h - 23h, online)
+- Harder DP problems (continue) - 
+
+722E - Research Rover
+https://codeforces.com/problemset/problem/722/E
+
+815C - Karen and Supermarket
+https://codeforces.com/contest/815/problem/C
+
+--------------------------------------------------
+01/12/2018 (21h - 23h, online)
+- Harder DP problems (continue) + DP optimization (Knutt-Yao) -
+
+100212C - Order-Preserving Codes
+https://codeforces.com/gym/100212/attachments/download/1727/20042005-winter-petrozavodsk-camp-andrew-stankevich-contest-10-en.pdf
+
+SPOJ - Breaking String
+https://www.spoj.com/problems/BRKSTRNG/
+
+958E2 - Guard Duty (medium)
+https://codeforces.com/problemset/problem/958/E2
+
+---------------------------------------------------
+15/12/2018 (21h - 24h, online)
+- Convex Hull Trick -
+
+319C - Kalila and Dimna in the Logging Industry
+https://codeforces.com/problemset/problem/319/C
+
+SPOJ - NKLEAVES
+https://www.spoj.com/problems/NKLEAVES/
+
+631E - Product Sum
+https://codeforces.com/problemset/problem/631/E
+
+---------------------------------------------------
+12/01/2019 (9h - 12h, online)
+- DP Optimization with Divide and Conquer -
+
+SPOJ - NKLEAVES
+https://www.spoj.com/problems/NKLEAVES/
+
+IOI 2014 Day 0 - Guardians of the Lunatics
+https://www.hackerrank.com/contests/ioi-2014-practice-contest-2/challenges/guardians-lunatics-ioi14
+
+321E - Ciel and Gondolas
+https://codeforces.com/contest/321/problem/E
+
+21/5/2019 (9h , offline)
+MaximumFlow
+UVa 820 - Internet Bandwidth
+https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=761
+
+653D - Delivery Bears
+https://codeforces.com/problemset/problem/653/D
+
+UVa 259 - Software Allocation
+https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=195
+
+22/5
+Quang
+
+CF 546E - Soldier and Traveling
+http://codeforces.com/problemset/problem/546/E
+
+CF 498C - Array and Operations
+http://codeforces.com/problemset/problem/498/C
+
+UVa 11506 - Angry Programmer
+https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=2501
+
+25/5
+
+Quang
+
+SPOJ MATCHING - Fast Maximum Matching
+https://www.spoj.com/problems/MATCHING/
+
+CF 720B - Cactusophobia
+http://codeforces.com/problemset/problem/720/B
+
+CF 847J - Students Initiation
+http://codeforces.com/problemset/problem/847/J
+
+CF 147E - Build String
+https://codeforces.com/problemset/problem/237/E
+
+CF 101149D - Behind the Wall
+https://codeforces.com/gym/101149/problem/D
+
+CF 717G - Underfail
+https://codeforces.com/problemset/problem/717/G
+
+863F - Almost Permutation
+https://codeforces.com/problemset/problem/863/F
+
+510E - Fox And Dinner
+https://codeforces.com/problemset/problem/510/E
+
+802N - April Fools' Problem (medium)
+https://codeforces.com/problemset/problem/802/N
+
+CF 884F - Anti-Palindromize
+http://codeforces.com/problemset/problem/884/F
+
+CF 277E - Binary Tree on Plane
+http://codeforces.com/contest/277/problem/E
+
+CF 724E - Goods transportation
+http://codeforces.com/problemset/problem/724/E
+Quang
+
+/****Matrix Exponentiation**/
+
+SPOJ SPP - Recursive Sequence (Version II)
+https://www.spoj.com/problems/SPP/
+
+CF 1117D - Magic Gems
+https://codeforces.com/problemset/problem/1117/D
+
+Educational DP Contest Problem R - Walk
+https://atcoder.jp/contests/dp/tasks/dp_r
+
+/***sparse table***/
+
+QMAX - Giá trị lớn nhất
+https://vn.spoj.com/problems/QMAX/
+
+689D - Friends and Subsequences
+https://codeforces.com/contest/689/problem/D
+514D - R2D2 and Droid Army
+https://codeforces.com/contest/514/problem/D
+
+ARC067D - Yakiniku Restaurants
+https://atcoder.jp/contests/arc067/tasks/arc067_d
+
+/******Binary Lifting/ Lowest common ancestor****/
+
+https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=3390
+
+191C - Fools and Roads
+https://codeforces.com/problemset/problem/191/C
+
+519E - A and B and Lecture Rooms
+https://codeforces.com/problemset/problem/519/E
+
+DISQUERY - Distance Query
+https://www.spoj.com/problems/DISQUERY/
+
+CF 609E - Minimum spanning tree for each edge
+https://codeforces.com/problemset/problem/609/E
+
+TALCA - Lowest Common Ancestor
+
+/***********Largest Diameter of tree******/
+CF 690C2 - Brain Network (medium)
+https://codeforces.com/problemset/problem/690/C2
+
+CF 456E - Civilization
+https://codeforces.com/contest/456/problem/E
+
+CF 592D - Super M
+https://codeforces.com/contest/592/problem/D
+
+/***********Combinatories************/
+CF 300C - Beautiful Numbers
+https://codeforces.com/problemset/problem/300/C
+
+CF 500D - New Year Santa Network
+https://codeforces.com/problemset/problem/500/D
+
+CF 128C - Games with Rectangle
+https://codeforces.com/problemset/problem/128/C
+
+/**************Square root***************/
+CF 797E - Array Queries
+https://codeforces.com/problemset/problem/797/E
+
+CF 86D - Powerful array
+https://codeforces.com/problemset/problem/86/D
+
+CF 342E - Xenia and Tree
+https://codeforces.com/problemset/problem/342/E
+
+CF 577E - Points on Plane
+https://codeforces.com/problemset/problem/577/E
+
+CF 375D - Tree and Queries
+https://codeforces.com/problemset/problem/375/D
+
+CF 425D - Sereja and Squares
+https://codeforces.com/contest/425/problem/D
+
+
+/***Expected value ***/
+CF 518D - Ilya and Escalator
+https://codeforces.com/problemset/problem/577/E
+
+Kickstart 2017 Round B - Math Encoder
+https://code.google.com/codejam/contest/11304486/dashboard
+
+CF 846F - Random Query
+https://codeforces.com/problemset/problem/846/F
+
+CF 912D - Fishes
+http://codeforces.com/contest/912/problem/D
+
+CF 540D - Bad Luck Island
+http://codeforces.com/problemset/problem/540/D
+
+CSAcademy Round 55 - Black White Tree
+https://csacademy.com/contest/round-55/task/black-white-tree/
+
+CF 626D - Jerry's Protest
+https://codeforces.com/problemset/problem/626/D
+
+CF 261B - Maxim and Restaurant
+https://codeforces.com/problemset/problem/261/B
+
+CF 1045D - Interstellar battle
+https://codeforces.com/problemset/problem/1045/D
+
+- Game Theory -
+
+Educational DP Contest Problem K - Stones
+https://atcoder.jp/contests/dp/tasks/dp_k
+
+CF 917B - MADMAX
+https://codeforces.com/problemset/problem/917/B
+
+CF 786A - Berzerk
+https://codeforces.com/problemset/problem/786/A
+
+CF 914B - Conan and Agasa play a Card Game
+https://codeforces.com/problemset/problem/914/B
+
+CF 1038C - Gambling
+https://codeforces.com/contest/1038/problem/C
+
+CF 293A - Weird Game
+https://codeforces.com/problemset/problem/293/A
+
+CF 197A - Plate Game
+https://codeforces.com/contest/197/problem/A
+
+http://codeforces.com/contest/36/problem/D
+
+CF 794C - Naming Company
+https://codeforces.com/problemset/problem/794/C
+
+CF 1194D - 1-2-K Game
+https://codeforces.com/problemset/problem/1194/D
+
+CF 15C - Industrial Nim
+https://codeforces.com/problemset/problem/15/C
+
+CSAcademy 6E - Exponential Game
+https://csacademy.com/contest/beta-round-6/task/exponential_game/statement/
+
+CF 317D - Game with Powers
+https://codeforces.com/contest/317/problem/D
+
+Quang
+
+https://csacademy.com/contest/archive/task/a_game/
+
+ARC078B - Fennec VS. Snuke
+https://atcoder.jp/contests/arc078/tasks/arc078_b
+
+ARC072B - Alice&Brown
+https://atcoder.jp/contests/arc072/tasks/arc072_b
+
+812E - Sagheer and Apple Tree
+https://codeforces.com/problemset/problem/812/E
+
+/**************TRIE*************/
+
+UVa 11475 - Extend to Palindrome
+https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=2470
+
+CF 535D - Tavas and Malekas
+https://codeforces.com/problemset/problem/535/D
+
+CF 631D - Messenger
+https://codeforces.com/problemset/problem/631/D
+
+CSAcademy - Prefix Free Subset
+https://csacademy.com/contest/archive/task/prefix-free-subset/
+
+https://codeforces.com/problemset/problem/706/D
+
+CF 514C - Watto and Mechanism
+https://codeforces.com/problemset/problem/514/C
+
+CF 566A - Matching Names
+https://codeforces.com/problemset/problem/566/A
+
+/********INTERACTIVE PROBLEMS***********/
+CF 679A - Bear and Prime 100
+https://codeforces.com/problemset/problem/679/A
+
+CF 1010B - Rocket
+https://codeforces.com/problemset/problem/1010/B
+
+CF 713B - Searching Rectangles
+https://codeforces.com/problemset/problem/713/B
+
+
+Quang
+
+
+
+https://codeforces.com/problemset/problem/1023/E
+
+CF 1146C - Tree Diameter
+https://codeforces.com/problemset/problem/1146/C
+
+CF 1153E - Serval and Snake
+https://codeforces.com/problemset/problem/1153/E
+
+CF 843B - Interactive LowerBound
+https://codeforces.com/problemset/problem/843/B
+
+CF 1093C - Dwarves, Hats and Extrasensory Abilities
+https://codeforces.com/problemset/problem/1063/C
+
+CSAcademy - Letter by Letter
+https://csacademy.com/contest/round-16/task/letter-by-letter/
+
+/*********Ternary Search*********/
+https://atcoder.jp/contests/abc130/tasks/abc130_f
+
+/*** random number*********?
+https://codeforces.com/blog/entry/61587
+
+https://codeforces.com/blog/entry/61675
+
+
+/******REVIEW**********/
+CF 717D - Dexterina’s Lab
+https://codeforces.com/contest/717/problem/D
+
+CF 793D - Presents in Bankopolis
+https://codeforces.com/problemset/problem/793/D
+
+ARC067D - Yakiniku Restaurants
+https://atcoder.jp/contests/arc067/tasks/arc067_d
+
+CF 1113D - Flood Fill
+https://codeforces.com/problemset/problem/1114/D
+
+CF 313D - Ilya and Roads
+https://codeforces.com/problemset/problem/313/D
+
+Vietnam Regional 2016 Problem C - Terraced fields
+https://vietnam-practice.kattis.com/problems/terracedfields
+
+VOI 2011 - Parity Games
+https://vn.spoj.com/problems/PARIGAME/
+
+1083A - The Fair Nut and the Best Path
+https://codeforces.com/problemset/problem/1083/A
+
+1132F - Clear the String
+https://codeforces.com/problemset/problem/1132/F
+
+Quang
+
+CF 543A - Writing Code
+https://codeforces.com/problemset/problem/543/A
+
+CF 337D - Book of Evil
+https://codeforces.com/problemset/problem/337/D
+
+CF 101237E - Just Another Sequence Problem
+https://codeforces.com/gym/101237/problem/F
+
+Quang
+
+CF 101237D - Short Enough Task
+https://codeforces.com/gym/101237/problem/D
+
+ICPC Vietnam Regional 2017 Problem B - Barcode
+https://hochiminh17.kattis.com/problems/barcode
+
+CF 164C - Machine Programming
+https://codeforces.com/problemset/problem/164/C
+
+UVa 10026 - Shoemaker's Problem
+https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=967
+
+CF 101149B - No Time for Dragons
+https://codeforces.com/gym/101149/problem/B
+
+Kickstart 2019 Round B - Energy Stones
+https://codingcompetitions.withgoogle.com/kickstart/round/0000000000050eda/00000000001198c3
+
+
+
+
+
+
+
+https://vn.spoj.com/problems/TREELINE/
+
+
+
+https://codeforces.com/gym/253842
+
+https://codeforces.com/contests/254631
+
+https://vjudge.net/contest/331523
+
+https://vjudge.net/contest/333005
+
+https://vjudge.net/contest/339141
+
+https://codeforces.com/gym/100741/problem/A
+
+https://vjudge.net/contest/341126
+
+https://vjudge.net/contest/342760
+
+https://atcoder.jp/contests/agc035/tasks/agc035_a
+
+https://atcoder.jp/contests/agc031/tasks/agc031_b
+
+https://vjudge.net/contest/349601
+
+CF 1292A - NEKO's Maze Game
+https://codeforces.com/problemset/problem/1292/A
+
+CF 1288D - Minimax Problem
+https://codeforces.com/problemset/problem/1288/D
+
+SPOJ GRAPH_ - Tìm khớp và cầu (Cơ bản)
+https://vn.spoj.com/problems/GRAPH_/
+
+2018 Asia Singapore Preliminary Contest - Problem D
+https://open.kattis.com/contests/asiasg18-prelim-open/problems/caveexploration
+
+CF 118E - Berland town
+https://codeforces.com/contest/118/problem/E
+
+CF 100712F - Problem H
+https://codeforces.com/gym/100712/attachments
+
+https://codeforces.com/gym/101964/problem/G
+
+https://naipc19.kattis.com/problems/pieceofcake
+
+https://vietnam-national19.kattis.com/problems/gatheringinyorknew
+
+ARC059B - Unbalanced
+https://atcoder.jp/contests/arc059/tasks/arc059_b
+
+AGC003C - BBuBBBlesort!
+https://atcoder.jp/contests/agc003/tasks/agc003_c
+
+CF 543B - Destroying Roads
+https://codeforces.com/problemset/problem/543/B
+
+CF 1000E - We Need More Bosses
+https://codeforces.com/problemset/problem/1000/E
