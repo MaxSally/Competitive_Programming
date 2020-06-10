@@ -80,7 +80,7 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/cygdrive/d/Max/LearningC++/Codeforces/101597D_Effective_network.cpp">
+		<Unit filename="/cygdrive/d/Max/LearningC++/Others/diamondLeague_simulation.cpp">
 			<Option target="LearningC__"/>
 		</Unit>
 		<Unit filename="/cygdrive/d/Max/LearningC++/CMakeLists.txt">

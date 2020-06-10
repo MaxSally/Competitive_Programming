@@ -1,5 +1,5 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/LearningC__.dir/Codeforces/101597D_Effective_network.cpp.o"
+  "CMakeFiles/LearningC__.dir/Others/diamondLeague_simulation.cpp.o"
   "LearningC__.exe"
   "LearningC__.pdb"
   "libLearningC__.dll.a"

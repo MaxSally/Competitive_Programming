@@ -3,7 +3,7 @@ project(LearningC__)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(LearningC__     Codeforces/101597D_Effective_network.cpp)
+add_executable(LearningC__     Others/diamondLeague_simulation.cpp)
 
 # "Codeforces/1321A_Contest for Robot.cpp"
 #"Others/F_Grid component.cpp"

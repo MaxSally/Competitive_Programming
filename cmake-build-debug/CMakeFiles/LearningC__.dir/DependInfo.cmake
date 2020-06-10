@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/cygdrive/d/Max/LearningC++/Codeforces/101597D_Effective_network.cpp" "/cygdrive/d/Max/LearningC++/cmake-build-debug/CMakeFiles/LearningC__.dir/Codeforces/101597D_Effective_network.cpp.o"
+  "/cygdrive/d/Max/LearningC++/Others/diamondLeague_simulation.cpp" "/cygdrive/d/Max/LearningC++/cmake-build-debug/CMakeFiles/LearningC__.dir/Others/diamondLeague_simulation.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

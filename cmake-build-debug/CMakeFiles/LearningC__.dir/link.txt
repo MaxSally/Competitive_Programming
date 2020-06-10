@@ -1,1 +1,1 @@
-/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/LearningC__.dir/Codeforces/101597D_Effective_network.cpp.o  -o LearningC__.exe -Wl,--out-implib,libLearningC__.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/LearningC__.dir/Others/diamondLeague_simulation.cpp.o  -o LearningC__.exe -Wl,--out-implib,libLearningC__.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
