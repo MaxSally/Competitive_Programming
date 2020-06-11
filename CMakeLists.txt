@@ -3,7 +3,7 @@ project(LearningC__)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(LearningC__     Others/diamondLeague_simulation.cpp)
+add_executable(LearningC__     "Codeforces/102215M_Shlakoblock is live.cpp")
 
 # "Codeforces/1321A_Contest for Robot.cpp"
 #"Others/F_Grid component.cpp"

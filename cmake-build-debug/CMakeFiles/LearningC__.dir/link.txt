@@ -1,1 +1,1 @@
-/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/LearningC__.dir/Others/diamondLeague_simulation.cpp.o  -o LearningC__.exe -Wl,--out-implib,libLearningC__.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/LearningC__.dir/Codeforces/102215M_Shlakoblock_is_live.cpp.o  -o LearningC__.exe -Wl,--out-implib,libLearningC__.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

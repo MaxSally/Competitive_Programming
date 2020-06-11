@@ -123,32 +123,32 @@ LearningC__/fast:
 	$(MAKE) -f CMakeFiles/LearningC__.dir/build.make CMakeFiles/LearningC__.dir/build
 .PHONY : LearningC__/fast
 
-Others/diamondLeague_simulation.o: Others/diamondLeague_simulation.cpp.o
+Codeforces/102215M_Shlakoblock_is_live.o: Codeforces/102215M_Shlakoblock_is_live.cpp.o
 
-.PHONY : Others/diamondLeague_simulation.o
+.PHONY : Codeforces/102215M_Shlakoblock_is_live.o
 
 # target to build an object file
-Others/diamondLeague_simulation.cpp.o:
-	$(MAKE) -f CMakeFiles/LearningC__.dir/build.make CMakeFiles/LearningC__.dir/Others/diamondLeague_simulation.cpp.o
-.PHONY : Others/diamondLeague_simulation.cpp.o
+Codeforces/102215M_Shlakoblock_is_live.cpp.o:
+	$(MAKE) -f CMakeFiles/LearningC__.dir/build.make CMakeFiles/LearningC__.dir/Codeforces/102215M_Shlakoblock_is_live.cpp.o
+.PHONY : Codeforces/102215M_Shlakoblock_is_live.cpp.o
 
-Others/diamondLeague_simulation.i: Others/diamondLeague_simulation.cpp.i
+Codeforces/102215M_Shlakoblock_is_live.i: Codeforces/102215M_Shlakoblock_is_live.cpp.i
 
-.PHONY : Others/diamondLeague_simulation.i
+.PHONY : Codeforces/102215M_Shlakoblock_is_live.i
 
 # target to preprocess a source file
-Others/diamondLeague_simulation.cpp.i:
-	$(MAKE) -f CMakeFiles/LearningC__.dir/build.make CMakeFiles/LearningC__.dir/Others/diamondLeague_simulation.cpp.i
-.PHONY : Others/diamondLeague_simulation.cpp.i
+Codeforces/102215M_Shlakoblock_is_live.cpp.i:
+	$(MAKE) -f CMakeFiles/LearningC__.dir/build.make CMakeFiles/LearningC__.dir/Codeforces/102215M_Shlakoblock_is_live.cpp.i
+.PHONY : Codeforces/102215M_Shlakoblock_is_live.cpp.i
 
-Others/diamondLeague_simulation.s: Others/diamondLeague_simulation.cpp.s
+Codeforces/102215M_Shlakoblock_is_live.s: Codeforces/102215M_Shlakoblock_is_live.cpp.s
 
-.PHONY : Others/diamondLeague_simulation.s
+.PHONY : Codeforces/102215M_Shlakoblock_is_live.s
 
 # target to generate assembly for a file
-Others/diamondLeague_simulation.cpp.s:
-	$(MAKE) -f CMakeFiles/LearningC__.dir/build.make CMakeFiles/LearningC__.dir/Others/diamondLeague_simulation.cpp.s
-.PHONY : Others/diamondLeague_simulation.cpp.s
+Codeforces/102215M_Shlakoblock_is_live.cpp.s:
+	$(MAKE) -f CMakeFiles/LearningC__.dir/build.make CMakeFiles/LearningC__.dir/Codeforces/102215M_Shlakoblock_is_live.cpp.s
+.PHONY : Codeforces/102215M_Shlakoblock_is_live.cpp.s
 
 # Help Target
 help:
@@ -159,9 +159,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... LearningC__"
 	@echo "... edit_cache"
-	@echo "... Others/diamondLeague_simulation.o"
-	@echo "... Others/diamondLeague_simulation.i"
-	@echo "... Others/diamondLeague_simulation.s"
+	@echo "... Codeforces/102215M_Shlakoblock_is_live.o"
+	@echo "... Codeforces/102215M_Shlakoblock_is_live.i"
+	@echo "... Codeforces/102215M_Shlakoblock_is_live.s"
 .PHONY : help
 
 
