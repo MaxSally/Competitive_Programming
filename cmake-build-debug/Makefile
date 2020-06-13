@@ -123,32 +123,32 @@ LearningC__/fast:
 	$(MAKE) -f CMakeFiles/LearningC__.dir/build.make CMakeFiles/LearningC__.dir/build
 .PHONY : LearningC__/fast
 
-Codeforces/102215M_Shlakoblock_is_live.o: Codeforces/102215M_Shlakoblock_is_live.cpp.o
+Codeforces/267B_Dominoes.o: Codeforces/267B_Dominoes.cpp.o
 
-.PHONY : Codeforces/102215M_Shlakoblock_is_live.o
+.PHONY : Codeforces/267B_Dominoes.o
 
 # target to build an object file
-Codeforces/102215M_Shlakoblock_is_live.cpp.o:
-	$(MAKE) -f CMakeFiles/LearningC__.dir/build.make CMakeFiles/LearningC__.dir/Codeforces/102215M_Shlakoblock_is_live.cpp.o
-.PHONY : Codeforces/102215M_Shlakoblock_is_live.cpp.o
+Codeforces/267B_Dominoes.cpp.o:
+	$(MAKE) -f CMakeFiles/LearningC__.dir/build.make CMakeFiles/LearningC__.dir/Codeforces/267B_Dominoes.cpp.o
+.PHONY : Codeforces/267B_Dominoes.cpp.o
 
-Codeforces/102215M_Shlakoblock_is_live.i: Codeforces/102215M_Shlakoblock_is_live.cpp.i
+Codeforces/267B_Dominoes.i: Codeforces/267B_Dominoes.cpp.i
 
-.PHONY : Codeforces/102215M_Shlakoblock_is_live.i
+.PHONY : Codeforces/267B_Dominoes.i
 
 # target to preprocess a source file
-Codeforces/102215M_Shlakoblock_is_live.cpp.i:
-	$(MAKE) -f CMakeFiles/LearningC__.dir/build.make CMakeFiles/LearningC__.dir/Codeforces/102215M_Shlakoblock_is_live.cpp.i
-.PHONY : Codeforces/102215M_Shlakoblock_is_live.cpp.i
+Codeforces/267B_Dominoes.cpp.i:
+	$(MAKE) -f CMakeFiles/LearningC__.dir/build.make CMakeFiles/LearningC__.dir/Codeforces/267B_Dominoes.cpp.i
+.PHONY : Codeforces/267B_Dominoes.cpp.i
 
-Codeforces/102215M_Shlakoblock_is_live.s: Codeforces/102215M_Shlakoblock_is_live.cpp.s
+Codeforces/267B_Dominoes.s: Codeforces/267B_Dominoes.cpp.s
 
-.PHONY : Codeforces/102215M_Shlakoblock_is_live.s
+.PHONY : Codeforces/267B_Dominoes.s
 
 # target to generate assembly for a file
-Codeforces/102215M_Shlakoblock_is_live.cpp.s:
-	$(MAKE) -f CMakeFiles/LearningC__.dir/build.make CMakeFiles/LearningC__.dir/Codeforces/102215M_Shlakoblock_is_live.cpp.s
-.PHONY : Codeforces/102215M_Shlakoblock_is_live.cpp.s
+Codeforces/267B_Dominoes.cpp.s:
+	$(MAKE) -f CMakeFiles/LearningC__.dir/build.make CMakeFiles/LearningC__.dir/Codeforces/267B_Dominoes.cpp.s
+.PHONY : Codeforces/267B_Dominoes.cpp.s
 
 # Help Target
 help:
@@ -159,9 +159,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... LearningC__"
 	@echo "... edit_cache"
-	@echo "... Codeforces/102215M_Shlakoblock_is_live.o"
-	@echo "... Codeforces/102215M_Shlakoblock_is_live.i"
-	@echo "... Codeforces/102215M_Shlakoblock_is_live.s"
+	@echo "... Codeforces/267B_Dominoes.o"
+	@echo "... Codeforces/267B_Dominoes.i"
+	@echo "... Codeforces/267B_Dominoes.s"
 .PHONY : help
 
 

@@ -57,27 +57,27 @@ include CMakeFiles/LearningC__.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/LearningC__.dir/flags.make
 
-CMakeFiles/LearningC__.dir/Codeforces/102215M_Shlakoblock_is_live.cpp.o: CMakeFiles/LearningC__.dir/flags.make
-CMakeFiles/LearningC__.dir/Codeforces/102215M_Shlakoblock_is_live.cpp.o: ../Codeforces/102215M_Shlakoblock\ is\ live.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/d/Max/LearningC++/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/LearningC__.dir/Codeforces/102215M_Shlakoblock_is_live.cpp.o"
-	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/LearningC__.dir/Codeforces/102215M_Shlakoblock_is_live.cpp.o -c "/cygdrive/d/Max/LearningC++/Codeforces/102215M_Shlakoblock is live.cpp"
+CMakeFiles/LearningC__.dir/Codeforces/267B_Dominoes.cpp.o: CMakeFiles/LearningC__.dir/flags.make
+CMakeFiles/LearningC__.dir/Codeforces/267B_Dominoes.cpp.o: ../Codeforces/267B_Dominoes.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/d/Max/LearningC++/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/LearningC__.dir/Codeforces/267B_Dominoes.cpp.o"
+	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/LearningC__.dir/Codeforces/267B_Dominoes.cpp.o -c /cygdrive/d/Max/LearningC++/Codeforces/267B_Dominoes.cpp
 
-CMakeFiles/LearningC__.dir/Codeforces/102215M_Shlakoblock_is_live.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LearningC__.dir/Codeforces/102215M_Shlakoblock_is_live.cpp.i"
-	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/cygdrive/d/Max/LearningC++/Codeforces/102215M_Shlakoblock is live.cpp" > CMakeFiles/LearningC__.dir/Codeforces/102215M_Shlakoblock_is_live.cpp.i
+CMakeFiles/LearningC__.dir/Codeforces/267B_Dominoes.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LearningC__.dir/Codeforces/267B_Dominoes.cpp.i"
+	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /cygdrive/d/Max/LearningC++/Codeforces/267B_Dominoes.cpp > CMakeFiles/LearningC__.dir/Codeforces/267B_Dominoes.cpp.i
 
-CMakeFiles/LearningC__.dir/Codeforces/102215M_Shlakoblock_is_live.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LearningC__.dir/Codeforces/102215M_Shlakoblock_is_live.cpp.s"
-	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/cygdrive/d/Max/LearningC++/Codeforces/102215M_Shlakoblock is live.cpp" -o CMakeFiles/LearningC__.dir/Codeforces/102215M_Shlakoblock_is_live.cpp.s
+CMakeFiles/LearningC__.dir/Codeforces/267B_Dominoes.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LearningC__.dir/Codeforces/267B_Dominoes.cpp.s"
+	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /cygdrive/d/Max/LearningC++/Codeforces/267B_Dominoes.cpp -o CMakeFiles/LearningC__.dir/Codeforces/267B_Dominoes.cpp.s
 
 # Object files for target LearningC__
 LearningC___OBJECTS = \
-"CMakeFiles/LearningC__.dir/Codeforces/102215M_Shlakoblock_is_live.cpp.o"
+"CMakeFiles/LearningC__.dir/Codeforces/267B_Dominoes.cpp.o"
 
 # External object files for target LearningC__
 LearningC___EXTERNAL_OBJECTS =
 
-LearningC__.exe: CMakeFiles/LearningC__.dir/Codeforces/102215M_Shlakoblock_is_live.cpp.o
+LearningC__.exe: CMakeFiles/LearningC__.dir/Codeforces/267B_Dominoes.cpp.o
 LearningC__.exe: CMakeFiles/LearningC__.dir/build.make
 LearningC__.exe: CMakeFiles/LearningC__.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/cygdrive/d/Max/LearningC++/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable LearningC__.exe"

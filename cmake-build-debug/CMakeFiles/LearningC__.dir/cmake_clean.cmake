@@ -1,5 +1,5 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/LearningC__.dir/Codeforces/102215M_Shlakoblock_is_live.cpp.o"
+  "CMakeFiles/LearningC__.dir/Codeforces/267B_Dominoes.cpp.o"
   "LearningC__.exe"
   "LearningC__.pdb"
   "libLearningC__.dll.a"

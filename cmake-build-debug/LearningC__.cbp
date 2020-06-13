@@ -80,7 +80,7 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/cygdrive/d/Max/LearningC++/Codeforces/102215M_Shlakoblock is live.cpp">
+		<Unit filename="/cygdrive/d/Max/LearningC++/Codeforces/267B_Dominoes.cpp">
 			<Option target="LearningC__"/>
 		</Unit>
 		<Unit filename="/cygdrive/d/Max/LearningC++/CMakeLists.txt">
