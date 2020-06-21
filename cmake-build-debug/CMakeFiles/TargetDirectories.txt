@@ -1,3 +1,0 @@
-/cygdrive/d/Max/LearningC++/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/cygdrive/d/Max/LearningC++/cmake-build-debug/CMakeFiles/LearningC__.dir
-/cygdrive/d/Max/LearningC++/cmake-build-debug/CMakeFiles/edit_cache.dir
